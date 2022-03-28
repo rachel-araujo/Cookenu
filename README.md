@@ -1,2 +1,2 @@
 # Cookenu
-Rede social de receitas
+Rede social de receitas (Em desenvolvimento)
